@@ -27,7 +27,7 @@ function showcss() {
 }
 function showjs() {
   document.getElementById('fig').src=
-  document.getElementById('desc').innerHTML='<b>javascript</b>' 는 웹을 위한 프로그래밍 언어이며 웹문서에서 동작을 실행할수 있게 한다.
+  document.getElementById('desc').innerHTML='<b>javascript</b>'는 웹을 위한 프로그래밍 언어이며 웹문서에서 동작을 실행할수 있게 한다.
   
 
 }
