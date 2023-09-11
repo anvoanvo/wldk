@@ -57,5 +57,25 @@ ul {
 
 .container {
   max-width: 1100px;
-  margin: 0;
+  margin: 0 auto;
+  padding: 0 30px;
+}
+
+.main {
+  color: blue;
+  line-height: 2.5;
+}
+
+button {
+  padding: 5px 10px;
+  margin: 5px 10px;
+  font-size: large;
+  font-weight: bold;
+  background-color: lightgrey;
+  border-radius: 10px;
+}
+
+button:hover {
+  color: red;
+  background-color: yellow;
 }
